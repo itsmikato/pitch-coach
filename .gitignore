@@ -1,0 +1,9 @@
+# CMake / JUCE build output (rebuild with cmake)
+build/
+cmake-build-*/
+*.log
+
+# editors and macOS
+.idea/
+.vscode/
+.DS_Store
